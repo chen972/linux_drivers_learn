@@ -1,2 +1,5 @@
 hello this is github
 commit by rookie_coder
+second change
+ just use git@github.com:chen972/linux_drivers_learn.git
+ 2021.1.31
